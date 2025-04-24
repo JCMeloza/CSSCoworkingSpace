@@ -376,6 +376,7 @@ section.hero {
   line-height: 40px;
   color: #909090;
   font-weight: 300;
+  
 }
 
 
@@ -404,6 +405,7 @@ section.coworking_info {
   gap: 224px;
   padding-left: 96px;
   padding-right: 96px;
+  margin-top: 30px;
   
 }
 section.coworking_info article {
